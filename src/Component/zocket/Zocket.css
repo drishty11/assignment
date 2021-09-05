@@ -1,0 +1,134 @@
+.input {
+    background: #F4F5F4;
+    border-radius: 6px 0 0 6px;
+}
+
+.early-access {
+    background: #0F6EFF;
+    border-radius: 0px 6px 6px 0px;
+}
+
+.first-text {
+    color: #505050;
+}
+
+.first-container {
+    height: calc(100vh - 5rem);
+}
+
+.ellipse53 {
+    bottom: 410px;
+    left: 40px;
+}
+.ellipse55 {
+    top: 110px;
+    left: 430px;
+}
+.ellipse57 {
+    top: 40px;
+    right: 690px;
+}
+.polygon {
+    left: 60px;
+    top: 120px;
+}
+.polygon2 {
+    right: 30px;
+    bottom: 380px;
+}
+.polygon2 {
+    right: 30px;
+    bottom: 380px;
+}
+.polygon2 {
+    right: 30px;
+    bottom: 380px;
+}
+.fourthcontainer-polygon{
+    left: 350px;
+    top: 320px;
+}
+.fourthcontainer-polygon2{
+    left: 100px;
+    top: 50px;
+}
+.fourthcontainer-polygon3{
+    right: 30px;
+    top: 200px;
+}
+.fourthcontainer-polygon4{
+    right: 550px;
+    top: 300px;
+}
+.fourthcontainer-ellipse53{
+    left: 50px;
+    top: 200px;
+}
+.fourthcontainer-ellipse55{
+    right: 40px;
+    top: 70px;
+}
+.fourthcontainer-ellipse57{
+    right: 700px;
+    top: -40px;
+}
+
+/* .second-container h3 {
+    
+} */
+
+.bubble1 {
+    position: relative;
+    background: #fff;
+    color: #000;
+    font-family: Arial;
+    margin-right: 40px;
+    box-shadow: 0px 10px 20px rgba(41, 41, 42, 0.07);
+    text-align: center;
+    width: 550px;
+    height: 100%;
+}
+.bubble1:after {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 0;
+    z-index: 1;
+    border-style: solid;
+    border-color: #fff transparent;
+    border-width: 16px 15px 0;
+    bottom: -16px;
+    left: 49%;
+    margin-left: -15px;
+}
+.bubble2 {
+    position: relative;
+    background: #fff;
+    color: #000;
+    font-family: Arial;
+    box-shadow: 0px 10px 20px rgba(41, 41, 42, 0.07);
+    text-align: center;
+    width: 540px;
+    height: 100%;
+}
+.bubble2:after {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 0;
+    z-index: 1;
+    border-style: solid;
+    border-color: #fff transparent;
+    border-width: 16px 15px 0;
+    bottom: -16px;
+    left: 49%;
+    margin-left: -15px;
+}
+.sideimg {
+    top: -120px ;
+    right: -50px ;
+}
+
+.line{
+    border-bottom: 1px solid #CACACA;
+}

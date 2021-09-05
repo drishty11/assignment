@@ -1,0 +1,8 @@
+.footer-input::placeholder {
+    color: #fff;
+    opacity: 1;
+}
+.footer-input {
+    background: #0F6EFF;
+    opacity: 0.4;
+}
